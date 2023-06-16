@@ -1,2 +1,2 @@
 # DistributedSystemsCollection
-A compendium of a lot of exercises that I develop for my distributed systems course in the university. Made mostly with Java and tested in Microsoft Azure.
+A compendium of a lot of exercises that I develop for my distributed systems course in the university, ranging from sockets, multithreading, synchronized threads, multicast, memory hierarchy, algorithms against mutual exclusion; to Java RMI, JSON (GSON specifically) and Web Services in REST. Made mostly with Java and aplied in Microsoft Azure.
